@@ -1,0 +1,1 @@
+# запустить сайт: python manage.py runserver
